@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\bin\Debug\net10.0\tipos_datos.exe
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\bin\Debug\net10.0\tipos_datos.deps.json
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\bin\Debug\net10.0\tipos_datos.runtimeconfig.json
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\bin\Debug\net10.0\tipos_datos.dll
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\bin\Debug\net10.0\tipos_datos.pdb
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\obj\Debug\net10.0\tipos_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\obj\Debug\net10.0\tipos_datos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\obj\Debug\net10.0\tipos_datos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\obj\Debug\net10.0\tipos_datos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\obj\Debug\net10.0\tipos_datos.dll
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\obj\Debug\net10.0\refint\tipos_datos.dll
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\obj\Debug\net10.0\tipos_datos.pdb
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\obj\Debug\net10.0\tipos_datos.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\PRUEBAS C#\tipos_datos\obj\Debug\net10.0\ref\tipos_datos.dll
